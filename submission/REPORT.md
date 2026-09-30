@@ -4,11 +4,11 @@
 
 ## 1. Thông tin học viên
 
-- **Họ và tên:** Hoang Ngoc Duc
+- **Họ và tên:** Hoàng Ngọc Đức
 - **MSSV:** 2A202602380
 - **Lớp:** K4-L3B
 - **Repository URL:** https://github.com/younglonelyboiz/K4-L3-DAY13-HoangNgocDuc-2A202602380-Monitoring-LLMOps
-- **Commit SHA cuối:** d600a10
+- **Commit SHA cuối:** dcd4069 
 - **Challenge ID:** day13-k4-l3b-monitoring-llmops-v1
 - **Tên project Langfuse cá nhân:** `day13-k4-l3b-2A202602380`
 
